@@ -1,5 +1,5 @@
-train: obj_train_data/
-val: obj_val_data/
+train: moorhuhn_dataset/obj_train_data/
+val: moorhuhn_dataset/obj_val_data/
 
 nc: 1
 names: ['moorhuhn']
