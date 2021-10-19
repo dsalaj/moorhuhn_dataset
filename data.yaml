@@ -1,0 +1,4 @@
+train: obj_train_data/
+
+nc: 1
+names: ['moorhuhn']
